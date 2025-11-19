@@ -2,6 +2,7 @@
 
 # 📚 Chat with Multiple PDFs
 
+![Alt text](image.png)
 This project allows you to **ask questions to multiple PDFs** using **LangChain**, **FAISS**, and **HuggingFace Transformer models**. It extracts text from PDFs, splits it into chunks, embeds the text using a sentence-transformer, and allows conversational retrieval using a large language model.
 
 ---
